@@ -1,0 +1,9 @@
+Project 6 [Practice Task]: Book Archiver   
+Requirements -
+1. Show an empty search error message
+2.  Show the total number of books in a text message (you received after a search)
+3.  Show only 15 books
+4. Solve all other problems you have found
+Check 
+  Live Site [with bugs]  - https://book-archive-bugs.netlify.app/ 
+  Live Site [without bugs]  - https://book-archive-js-project.netlify.app 
